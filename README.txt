@@ -1,0 +1,3 @@
+- Install Express
+- Install Socket.io
+- Run index.js
